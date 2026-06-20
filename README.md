@@ -3,6 +3,18 @@
 This project parses natural-language smart-home commands, builds rules, and **checks every rule against CSV catalogs** (`data/rooms.csv`, `data/devices.csv`, `data/sensors.csv`). When the model output does not match the real home, we treat that as a **hallucination** and try **mitigation** before rejecting or executing the command.
 
 ---
+## Project Type
+
+Team Project (5 Members)
+
+## My Contributions
+
+- OpenAI API Integration
+- System Deployment and Configuration
+- Testing and Validation
+- Dashboard Monitoring and Analysis
+- Performance Evaluation
+- Technical Documentation
 
 ## Hallucination checks
 
