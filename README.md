@@ -87,13 +87,6 @@ The complete project report is included in this repository.
 
 ---
 
-## Original Team Repository
-
-Source Code:
-
-https://github.com/hem-sagar/Smart-Home---Hallucinations-and-Mitigation
-
----
 
 ## Key Skills
 
